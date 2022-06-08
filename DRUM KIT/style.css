@@ -24,7 +24,7 @@ body {
   padding: 10px;
   width: 80px;
   cursor: pointer;
-  transition: all 0.07s;
+  transition: all 0.1s;
 }
 .playing {
   scale: (1.1);
